@@ -34,5 +34,5 @@ The plugin works only with polylang for now, the main idea for the plugin is to 
 
 ## Changelog 
 
-##### 1.0.0: August 14, 2022
+##### 1.0.0: August 14, 2023
 * Birthday of WP posts language duplicator
