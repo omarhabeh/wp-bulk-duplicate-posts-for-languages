@@ -19,9 +19,9 @@ The plugin works only with polylang for now, the main idea for the plugin is to 
 
 ## Frequently Asked Questions 
 
-##### Are custom fields duplicated as well ?
+### Are custom fields duplicated as well ?
  yes, all fields related to the page/post will be duplicated and passed to the new cloned page.
-##### what are the langauge plugins supported and are they the premius versions ?
+### what are the langauge plugins supported and are they the premius versions ?
  for the current version just [Polylang](https://polylang.pro/) is supported, and both versions are supported.
 
 ## Installation 
